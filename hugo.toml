@@ -1,0 +1,6 @@
+baseURL = 'https://courses.utstat.utoronto.ca/STA000/'
+languageCode = 'en-us'
+title = 'STA000'
+theme = "hugo-theme-relearn"
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
